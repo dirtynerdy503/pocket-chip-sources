@@ -1,0 +1,16 @@
+deb http://ftp.us.debian.org/debian/ jessie main contrib non-free
+deb-src http://ftp.us.debian.org/debian/ jessie main contrib non-free
+
+deb http://security.debian.org/ jessie/updates main contrib non-free
+deb-src http://security.debian.org/ jessie/updates main contrib non-free
+
+deb http://http.debian.net/debian jessie-backports main contrib non-free
+deb-src http://http.debian.net/debian jessie-backports main contrib non-free
+
+deb http://chip.jfpossibilites.com/chip/debian/repo jessie main
+deb http://opensource.nextthing.co/chip/debian/pocketchip jessie main
+# deb-src http://opensource.nextthing.co/chip/debian/pocketchip jessie main
+
+# deb-src http://opensource.nextthing.co/chip/debian/pocketchip jessie main
+# Kali linux repositories | Added by Katoolin
+deb http://http.kali.org/kali kali-rolling main contrib non-free
